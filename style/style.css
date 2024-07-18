@@ -120,6 +120,7 @@ body{
     width: 98%;
     border: 2px solid red;
     margin: 0 auto;
+    background-color: #0d0d0d ;
 }
 /* section-one */
 .habit-text{
@@ -175,6 +176,37 @@ body{
     font-weight: 400px;
     color: rgba(255, 255, 255, 0.5);
 }
-.section-one{
-    background-color: #0d0d0d;
+
+/* run section */
+.run{
+    width: 80%;
+    height: 370px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content:space-between;
+    gap: 165px;
+    background-color: rgb(34, 34, 34);
+    border-radius: 20px;
+}
+.run-text{
+    width: 445px;
+    height: 290px;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 41px;
+    margin-left: 54px;
+}
+.run-man{
+    width: 365px;
+    height: 312px;
+    /* border: 2px solid red; */
+    background-repeat: no-repeat;
+    object-fit:cover;
+    border-radius: 18px;
+    margin-top: 30px;
+    margin-right: 32px;
 }
