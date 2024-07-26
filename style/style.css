@@ -14,7 +14,7 @@ body{
 
 .header{
     width: 100%;
-    height: 820px;
+    height: 800px;
     /* border: 2px solid red; */
     margin: 0 auto;
     /* background: linear-gradient(rgb(17, 17, 17),
@@ -30,7 +30,6 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 10px;
 }
 .nav-option{
     display: flex;
@@ -118,7 +117,7 @@ body{
 /* main */
 .main{
     width: 100%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: 0 auto;
     background-color: #0d0d0d ;
 }
@@ -166,11 +165,13 @@ body{
     justify-content: center;
     border-radius: 50%;
 }
+/* share contant */
 .habit-h{
     font-size:18px ;
     font-weight:600px ;
     color:rgb(255, 255, 255) ;
 }
+/* share contant */
 .habit-p{
     font-size: 16px;
     font-weight: 400px;
@@ -322,4 +323,80 @@ table{
     /* border: 2px solid red; */
     height: 300px;
     margin-top:40px ;
+}
+
+/* extra part for 10 marks */
+
+.view-part{
+    height: 80px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.view-h{
+    text-align: center;
+}
+.jim-view{
+    height: 490px;
+    width:80%px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+/* footer part */
+
+footer{
+    height: 450px;
+    /* border: 2px solid red; */
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top: 85px;
+}
+.footer-container{
+    height: 250px;
+    width: 80%;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    margin-top: 65px; 
+    display: flex;
+    justify-content: space-between;
+}
+.div-one{
+    height: 177px;
+    width: 444px;
+    /* border: 2px solid red; */
+}
+.one-h{
+    font-size:84px ;
+    font-weight: 256px;
+    color: rgb(230, 83, 60);
+}
+/* share contant */
+.div-two{
+    height:250px ;
+    width:182px ;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.two-h{
+    font-weight: 700px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+/* .footer-container{
+    display: flex;
+    justify-content: space-between;
+} */
+.footer-p{
+    font-size: 16px;
+    font-weight: 700px;
+    color:rgba(255, 255, 255, 0.5);
+    height: 24px;
+    width: 318px;
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 115px;
 }
