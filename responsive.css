@@ -1,0 +1,30 @@
+@media screen and (max-width:576px) {
+    .navbar{
+        width: 100%;
+    }
+    .nav-option{
+        display: none;
+    }
+    .header-main{
+        flex-direction: column;
+        margin-left: 0px;
+        margin: 0 auto;
+    }
+    .header-text{
+        width: 100%;
+        text-align: center;
+        
+    }
+    .header-h{
+        font-weight: 700px;
+        font-size: 50px;
+    }
+    .btn{
+        display: flex;
+    }
+    .header-img{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    
+}
