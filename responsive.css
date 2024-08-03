@@ -101,4 +101,56 @@
     .last-btn{
         margin-left: 0;
     }
+    .meet-team{
+        height: 1990px;
+    }
+    .meet-text{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .team-img{
+        height: 1730px;
+        width: 90%;
+    }
+    .team-m{
+        width: 90%;
+        height: 270px;
+        margin-left: 12px;
+    }
+    .part-one{
+        flex-direction: column;
+        gap: 30px;
+        height: 50%;
+        margin-top:0px;
+        /* border: 2px solid yellow; */
+    }
+    .part-two{
+        margin-top:0px;
+        flex-direction: column;
+        gap: 30px;
+        height: 50%;
+        /* border: 2px solid green; */
+    }
+    .view-part{
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 55px;
+    }
+    .video{
+        width: 100%;
+        margin-top: 10px;
+    }
+    footer{
+        height: 990px;
+        /* border: 2px solid red; */
+    }
+    .footer-container{
+    flex-direction: column;
+    height: 748px;
+    margin-left:20px;
+    /* border: 2px solid red; */
+    }
+    .div-one{
+        width: 100%;
+    }
 }
