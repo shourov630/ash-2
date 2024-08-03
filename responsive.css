@@ -81,7 +81,10 @@
         height: 775px;
     }
     .chart{
-        width: 100%;
+        width: 90%;
+        margin: 0 auto;
+        margin-top: 10px;
+
     }
     .habit-hone{
         font-weight: 900px;
@@ -91,7 +94,8 @@
         margin-top: 20px;
     }
     .calculate{
-        width: 100%;
+        width: 90%;
+        margin: 0 auto;
     }
     .input-one{
         width: 100%;
