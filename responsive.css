@@ -13,7 +13,9 @@
         display: block;
     }
     .header{
+        width: 99%;
         height: 1225px;
+        /* border: 2px solid red; */
     }
     .header-main{
         flex-direction: column;
