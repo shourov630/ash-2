@@ -5,6 +5,10 @@
     .nav-option{
         display: none;
     }
+    /* burger-part */
+    .burger{
+        display: block;
+    }
     .header{
         height: 1225px;
     }
