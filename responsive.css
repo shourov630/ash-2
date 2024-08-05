@@ -5,6 +5,9 @@
     .nav-option{
         display: none;
     }
+    .nav-h{
+        margin-left: 20px;
+    }
     /* burger-part */
     .burger{
         display: block;
