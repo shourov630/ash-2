@@ -168,4 +168,16 @@
     .div-one{
         width: 100%;
     }
+    /* extra part */
+    .choice-container{
+        width: 90%;
+        height: 1200px;
+    }
+    .card-opt{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .plan-one{
+        width: 95%;
+    }
 }
