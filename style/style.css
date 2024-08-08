@@ -19,7 +19,6 @@ body{
     margin: 0 auto;
     /* background: linear-gradient(rgb(17, 17, 17),
     rgba(119, 119, 119, 0)); */
-    background-color:#0d0d0d;
 }
 /* navbar */
 .navbar{
@@ -368,7 +367,7 @@ table{
     width:80%px;
     /* border: 2px solid red; */
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 /* extra part */
@@ -378,7 +377,7 @@ table{
     /* border: 2px solid red; */
     height: 550px;
     margin-top: 58px;
-    background-color: #0d0d0d;
+    /* background-color: #0d0d0d; */
     border-radius: 40px;
     
     
@@ -393,7 +392,7 @@ table{
     height: 100px;
     text-align: center;
     /* border: 2px solid red; */
-    background-color: #0d0d0d ;
+    /* background-color: #0d0d0d ; */
     border-radius: 40px;
     
 }
@@ -434,7 +433,7 @@ table{
     background-color: aquamarine;
 }
 .pln-btn{
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 700px;
 }
 
